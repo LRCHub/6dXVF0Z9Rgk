@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "neophobia",
+  "base_artist": "ナノ",
+  "createdAt": "2025-12-04T15:09:04.572944Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "neophobia",
+      "artist": "NANO",
+      "has_synced": true,
+      "path": "select/01_neophobia_NANO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "neophobia",
+      "artist": "ナノ",
+      "has_synced": true,
+      "path": "select/02_neophobia_ナノ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Neophobia (Digital Punk Remix)",
+      "artist": "B-Front",
+      "has_synced": false,
+      "path": "select/03_Neophobia_(Digital_Punk_Remix)_B-Front.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "neophobia",
+      "artist": "Nano",
+      "has_synced": true,
+      "path": "select/04_neophobia_Nano.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "neophobia（Live at 新木場Studio Coast 2013/3/16)",
+      "artist": "NANO",
+      "has_synced": true,
+      "path": "select/05_neophobia(Live_at_新木場Studio_Coast_2013_3_16)_NANO.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "neophobia",
+      "artist": "ナノ",
+      "has_synced": true,
+      "path": "select/06_neophobia_ナノ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Evolution (feat. Neophobia)",
+      "artist": "Venice Revive",
+      "has_synced": false,
+      "path": "select/07_Evolution_(feat._Neophobia)_Venice_Revive.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "neophobia",
+      "artist": "ナノ",
+      "has_synced": false,
+      "path": "select/pl_01_neophobia_ナノ.txt"
+    }
+  ]
+}
